@@ -4,7 +4,7 @@
 
 - Currently working on:
   - An AI and visual learning tool
-  - (Attempts at) Ruby OSS contributions ([Bridgetown](https://www.bridgetownrb.com/))
+  - Ruby OSS contributions ([Bridgetown](https://www.bridgetownrb.com/))
 - Formerly senior developer in the team at [Unboxed](http://unboxed.co/)
 - Based in London
 - Favourite emoji is 🙄
